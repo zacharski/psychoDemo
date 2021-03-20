@@ -1,0 +1,7 @@
+﻿prompt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instText.started,instText.stopped,key_resp.keys,key_resp.rt,key_resp.started,key_resp.stopped,targetInstr.started,targetInstr.stopped,targetText.started,targetText.stopped,instr.started,instr.stopped,text.started,text.stopped,typedWord,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,12.71285562500998,None,['return'],[1.8041568329936126],12.71285562500998,None,,,,,,,,,,Owen,001,2021_Mar_20_1048,inputText,2021.1.2,60.33575350710243,
+Frog,0,0,0,0,,,,,,,14.56584316700173,None,14.56584316700173,None,16.55438149999827,None,16.55438149999827,None,tuck,Owen,001,2021_Mar_20_1048,inputText,2021.1.2,60.33575350710243,
+Donkey,0,1,1,1,,,,,,,21.754342166997958,None,21.754342166997958,None,23.75431450000906,None,23.75431450000906,None,move,Owen,001,2021_Mar_20_1048,inputText,2021.1.2,60.33575350710243,
+Poodle,0,2,2,2,,,,,,,35.07110545800242,None,35.07110545800242,None,37.07110262500646,None,37.07110262500646,None,dog,Owen,001,2021_Mar_20_1048,inputText,2021.1.2,60.33575350710243,
+in,0,3,3,3,,,,,,,53.52101837500231,None,53.52101837500231,None,55.520947541997884,None,55.520947541997884,None,fffff,Owen,001,2021_Mar_20_1048,inputText,2021.1.2,60.33575350710243,
+Titlecase,0,4,4,4,,,,,,,93.23741529200925,None,93.23741529200925,None,95.23747266700957,None,95.23747266700957,None,fff,Owen,001,2021_Mar_20_1048,inputText,2021.1.2,60.33575350710243,

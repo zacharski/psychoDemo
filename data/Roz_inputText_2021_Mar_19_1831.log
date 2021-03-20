@@ -1,0 +1,58 @@
+0.2425 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+7.9029 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [1440, 900]. Using actual size
+8.5903 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fd9a0b8bba8>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fd9a0904fd0>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+8.5906 	EXP 	window1: mouseVisible = True
+8.5907 	EXP 	window1: recordFrameIntervals = False
+8.7563 	EXP 	window1: recordFrameIntervals = True
+8.9406 	EXP 	window1: recordFrameIntervals = False
+9.5108 	EXP 	Created instText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instText', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+9.9975 	EXP 	Created targetInstr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='targetInstr', opacity=1, ori=0, pos=array([-0.2,  0.2]), rgb=UNKNOWN, text='Target word:', units='height', win=Window(...), wrapWidth=1)
+9.9981 	EXP 	Created targetText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='targetText', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.0005 	EXP 	Created instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr', opacity=1, ori=0, pos=array([-0.2,  0.2]), rgb=UNKNOWN, text='Type the target word below, and press return', units='height', win=Window(...), wrapWidth=1)
+10.0010 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+10.0030 	DATA 	Mouse: wheel shift=(0,0), pos=(606,410)
+10.0032 	DATA 	Mouse: wheel shift=(0,0), pos=(606,410)
+10.0074 	EXP 	instText: autoDraw = True
+11.7699 	EXP 	Imported cond.xlsx as conditions, 5 conditions, 1 params
+11.7705 	EXP 	Created sequence: sequential, trialTypes=5, nReps=1, seed=None
+11.7709 	EXP 	New trial (rep=0, index=0): {'prompt': 'type'}
+11.7895 	DATA 	Keypress: return
+11.7942 	EXP 	instText: autoDraw = False
+11.7942 	EXP 	targetText: text = 'type'
+11.7942 	EXP 	targetInstr: autoDraw = True
+11.7942 	EXP 	targetText: autoDraw = True
+13.7902 	EXP 	targetInstr: autoDraw = False
+13.7902 	EXP 	targetText: autoDraw = False
+13.7902 	EXP 	text: text = ''
+13.7902 	EXP 	instr: autoDraw = True
+13.7902 	EXP 	text: autoDraw = True
+13.8274 	DATA 	Keypress: t
+13.8397 	EXP 	text: text = 't'
+14.0406 	DATA 	Keypress: y
+14.0563 	EXP 	text: text = 'ty'
+14.2250 	DATA 	Keypress: p
+14.2397 	EXP 	text: text = 'typ'
+14.4103 	DATA 	Keypress: e
+14.4395 	EXP 	text: text = 'type'
+14.7400 	DATA 	Keypress: return
+14.7412 	EXP 	New trial (rep=0, index=1): {'prompt': 'this'}
+14.7567 	EXP 	instr: autoDraw = False
+14.7567 	EXP 	text: autoDraw = False
+14.7567 	EXP 	targetText: text = 'this'
+14.7567 	EXP 	targetInstr: autoDraw = True
+14.7567 	EXP 	targetText: autoDraw = True
+15.7266 	DATA 	Keypress: t
+15.8255 	DATA 	Keypress: h
+15.9428 	DATA 	Keypress: i
+16.0936 	DATA 	Keypress: s
+16.6762 	DATA 	Keypress: return
+16.7570 	EXP 	targetInstr: autoDraw = False
+16.7570 	EXP 	targetText: autoDraw = False
+16.7570 	EXP 	targetInstr: autoDraw = False
+16.7570 	EXP 	targetText: autoDraw = False
+16.7570 	EXP 	text: text = ''
+16.7570 	EXP 	instr: autoDraw = True
+16.7570 	EXP 	text: autoDraw = True
+18.5080 	DATA 	Keypress: escape
+18.5228 	EXP 	text: text = 'escape'
+18.6377 	EXP 	window1: mouseVisible = True

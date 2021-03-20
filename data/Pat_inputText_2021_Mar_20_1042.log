@@ -1,0 +1,151 @@
+0.2262 	WARNING 	We strongly recommend you activate the PTB sound engine in PsychoPy prefs as the preferred audio engine. Its timing is vastly superior. Your prefs are currently set to use ['sounddevice', 'PTB', 'pyo', 'pygame'] (in that order).
+12.9773 	WARNING 	User requested fullscreen with size [1920 1080], but screen is actually [1440, 900]. Using actual size
+13.6063 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x7fba0381cc88>, gamma=None, gammaErrorPolicy='raise', lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x7fba035d0278>, multiSample=False, name='window1', numSamples=2, pos=[360.0, 225.0], screen=0, size=array([2880, 1800]), stencilBits=0, stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+13.6064 	EXP 	window1: mouseVisible = True
+13.6064 	EXP 	window1: recordFrameIntervals = False
+13.7721 	EXP 	window1: recordFrameIntervals = True
+13.9558 	EXP 	window1: recordFrameIntervals = False
+14.5004 	EXP 	Created instText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instText', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+14.9793 	EXP 	Created targetInstr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='targetInstr', opacity=1, ori=0, pos=array([-0.2,  0.2]), rgb=UNKNOWN, text='Target word:', units='height', win=Window(...), wrapWidth=1)
+14.9798 	EXP 	Created targetText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='targetText', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+14.9822 	EXP 	Created instr = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr', opacity=1, ori=0, pos=array([-0.2,  0.2]), rgb=UNKNOWN, text='Type the target word below, and press return', units='height', win=Window(...), wrapWidth=1)
+14.9827 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoLog=True, bold=False, color=array([1, 1, 1]), colorSpace='rgb', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1, ori=0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+14.9929 	EXP 	instText: autoDraw = True
+17.9554 	EXP 	Imported cond.xlsx as conditions, 9 conditions, 1 params
+17.9558 	EXP 	Created sequence: sequential, trialTypes=9, nReps=1, seed=None
+17.9562 	EXP 	New trial (rep=0, index=0): {'prompt': 'Frog'}
+17.9698 	DATA 	Keypress: space
+17.9743 	EXP 	instText: autoDraw = False
+17.9743 	EXP 	targetText: text = 'xFrog'
+17.9743 	EXP 	targetInstr: autoDraw = True
+17.9743 	EXP 	targetText: autoDraw = True
+19.9721 	EXP 	targetInstr: autoDraw = False
+19.9721 	EXP 	targetText: autoDraw = False
+19.9721 	EXP 	text: text = ''
+19.9721 	EXP 	instr: autoDraw = True
+19.9721 	EXP 	text: autoDraw = True
+22.0223 	DATA 	Keypress: lshift
+22.4760 	DATA 	Keypress: f
+22.5052 	EXP 	text: text = 'F_'
+22.9898 	DATA 	Keypress: r
+23.0053 	EXP 	text: text = 'F_r'
+23.2242 	DATA 	Keypress: o
+23.2382 	EXP 	text: text = 'F_ro'
+23.4063 	DATA 	Keypress: g
+23.4224 	EXP 	text: text = 'F_rog'
+24.0902 	DATA 	Keypress: return
+24.0914 	EXP 	New trial (rep=0, index=1): {'prompt': 'Donkey'}
+24.1053 	EXP 	instr: autoDraw = False
+24.1053 	EXP 	text: autoDraw = False
+24.1053 	EXP 	targetText: text = 'xDonkey'
+24.1053 	EXP 	targetInstr: autoDraw = True
+24.1053 	EXP 	targetText: autoDraw = True
+26.1061 	EXP 	targetInstr: autoDraw = False
+26.1061 	EXP 	targetText: autoDraw = False
+26.1061 	EXP 	targetInstr: autoDraw = False
+26.1061 	EXP 	targetText: autoDraw = False
+26.1061 	EXP 	text: text = ''
+26.1061 	EXP 	instr: autoDraw = True
+26.1061 	EXP 	text: autoDraw = True
+28.0898 	DATA 	Keypress: x
+28.1055 	EXP 	text: text = 'x'
+28.3390 	DATA 	Keypress: lshift
+28.5906 	DATA 	Keypress: d
+28.6049 	EXP 	text: text = 'xD_'
+28.8235 	DATA 	Keypress: o
+28.8382 	EXP 	text: text = 'xD_o'
+28.9065 	DATA 	Keypress: n
+28.9227 	EXP 	text: text = 'xD_on'
+29.1733 	DATA 	Keypress: k
+29.1887 	EXP 	text: text = 'xD_onk'
+29.3066 	DATA 	Keypress: e
+29.3219 	EXP 	text: text = 'xD_onke'
+29.4904 	DATA 	Keypress: y
+29.5047 	EXP 	text: text = 'xD_onkey'
+30.2741 	DATA 	Keypress: return
+30.2749 	EXP 	New trial (rep=0, index=2): {'prompt': 'Poodle'}
+30.2885 	EXP 	instr: autoDraw = False
+30.2885 	EXP 	text: autoDraw = False
+30.2885 	EXP 	targetText: text = 'xPoodle'
+30.2885 	EXP 	targetInstr: autoDraw = True
+30.2885 	EXP 	targetText: autoDraw = True
+32.2890 	EXP 	targetInstr: autoDraw = False
+32.2890 	EXP 	targetText: autoDraw = False
+32.2890 	EXP 	targetInstr: autoDraw = False
+32.2890 	EXP 	targetText: autoDraw = False
+32.2890 	EXP 	text: text = ''
+32.2890 	EXP 	instr: autoDraw = True
+32.2890 	EXP 	text: autoDraw = True
+33.3911 	DATA 	Keypress: x
+33.4054 	EXP 	text: text = 'x'
+33.8726 	DATA 	Keypress: lshift
+34.1399 	DATA 	Keypress: p
+34.1563 	EXP 	text: text = 'xP_'
+34.6237 	DATA 	Keypress: o
+34.6390 	EXP 	text: text = 'xP_o'
+34.8313 	DATA 	Keypress: o
+34.8392 	EXP 	text: text = 'xP_oo'
+35.0566 	DATA 	Keypress: d
+35.0734 	EXP 	text: text = 'xP_ood'
+35.2905 	DATA 	Keypress: l
+35.3049 	EXP 	text: text = 'xP_oodl'
+35.5069 	DATA 	Keypress: e
+35.5220 	EXP 	text: text = 'xP_oodle'
+36.2898 	DATA 	Keypress: return
+36.2906 	EXP 	New trial (rep=0, index=3): {'prompt': 'in'}
+36.3050 	EXP 	instr: autoDraw = False
+36.3050 	EXP 	text: autoDraw = False
+36.3050 	EXP 	targetText: text = 'xin'
+36.3050 	EXP 	targetInstr: autoDraw = True
+36.3050 	EXP 	targetText: autoDraw = True
+38.3057 	EXP 	targetInstr: autoDraw = False
+38.3057 	EXP 	targetText: autoDraw = False
+38.3057 	EXP 	targetInstr: autoDraw = False
+38.3057 	EXP 	targetText: autoDraw = False
+38.3057 	EXP 	text: text = ''
+38.3057 	EXP 	instr: autoDraw = True
+38.3057 	EXP 	text: autoDraw = True
+39.6906 	DATA 	Keypress: x
+39.7058 	EXP 	text: text = 'x'
+40.1086 	DATA 	Keypress: i
+40.1400 	EXP 	text: text = 'xi'
+40.1921 	DATA 	Keypress: n
+40.2215 	EXP 	text: text = 'xin'
+40.6726 	DATA 	Keypress: return
+40.6734 	EXP 	New trial (rep=0, index=4): {'prompt': 'Titlecase'}
+40.6888 	EXP 	instr: autoDraw = False
+40.6888 	EXP 	text: autoDraw = False
+40.6888 	EXP 	targetText: text = 'xTitlecase'
+40.6888 	EXP 	targetInstr: autoDraw = True
+40.6888 	EXP 	targetText: autoDraw = True
+42.6890 	EXP 	targetInstr: autoDraw = False
+42.6890 	EXP 	targetText: autoDraw = False
+42.6890 	EXP 	targetInstr: autoDraw = False
+42.6890 	EXP 	targetText: autoDraw = False
+42.6890 	EXP 	text: text = ''
+42.6890 	EXP 	instr: autoDraw = True
+42.6890 	EXP 	text: autoDraw = True
+43.2731 	DATA 	Keypress: lshift
+43.5066 	DATA 	Keypress: x
+43.5228 	EXP 	text: text = 'X_'
+43.9572 	DATA 	Keypress: t
+43.9711 	EXP 	text: text = 'X_t'
+44.3228 	DATA 	Keypress: i
+44.3394 	EXP 	text: text = 'X_ti'
+44.5568 	DATA 	Keypress: t
+44.5718 	EXP 	text: text = 'X_tit'
+44.9064 	DATA 	Keypress: l
+44.9224 	EXP 	text: text = 'X_titl'
+45.1071 	DATA 	Keypress: e
+45.1216 	EXP 	text: text = 'X_title'
+45.5401 	DATA 	Keypress: c
+45.5553 	EXP 	text: text = 'X_titlec'
+45.7261 	DATA 	Keypress: a
+45.7547 	EXP 	text: text = 'X_titleca'
+45.9901 	DATA 	Keypress: s
+46.0055 	EXP 	text: text = 'X_titlecas'
+46.0902 	DATA 	Keypress: e
+46.1053 	EXP 	text: text = 'X_titlecase'
+46.3588 	DATA 	Keypress: return
+46.3734 	EXP 	New trial (rep=0, index=5): {'prompt': None}
+46.3861 	EXP 	window1: mouseVisible = True

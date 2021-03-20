@@ -1,0 +1,6 @@
+key_resp.keys,key_resp.rt,typedWord,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,trials.order,prompt,participant,session,date,expName,psychopyVersion,frameRate
+tab,19.64900017,,1,0,5,0,1,4,type,Sylvia,001,2020-12-08_14h21.12.964,inputText,3.1.3,60
+,,lcontroltab,1,0,5,1,1,4,this,Sylvia,001,2020-12-08_14h21.12.964,inputText,3.1.3,60
+,,Accessibility,1,0,5,2,1,4,word,Sylvia,001,2020-12-08_14h21.12.964,inputText,3.1.3,60
+,,,1,0,5,3,1,4,in,Sylvia,001,2020-12-08_14h21.12.964,inputText,3.1.3,60
+,,,1,0,5,4,1,4,Titlecase,Sylvia,001,2020-12-08_14h21.12.964,inputText,3.1.3,60

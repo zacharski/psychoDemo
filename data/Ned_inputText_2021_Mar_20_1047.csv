@@ -1,0 +1,7 @@
+﻿prompt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instText.started,instText.stopped,key_resp.keys,key_resp.rt,key_resp.started,key_resp.stopped,targetInstr.started,targetInstr.stopped,targetText.started,targetText.stopped,instr.started,instr.stopped,text.started,text.stopped,typedWord,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,14.862357959005749,None,['space'],[1.664694374994724],14.862357959005749,None,,,,,,,,,,Ned,001,2021_Mar_20_1047,inputText,2021.1.2,60.14164862178257,
+Frog,0,0,0,0,,,,,,,16.555052625000826,None,16.555052625000826,None,18.563043041998753,None,18.563043041998753,None,to,Ned,001,2021_Mar_20_1047,inputText,2021.1.2,60.14164862178257,
+Donkey,0,1,1,1,,,,,,,22.446411875003832,None,22.446411875003832,None,24.44736591700348,None,24.44736591700348,None,xD_onkey,Ned,001,2021_Mar_20_1047,inputText,2021.1.2,60.14164862178257,
+Poodle,0,2,2,2,,,,,,,31.83022937500209,None,31.83022937500209,None,33.82967125000141,None,33.82967125000141,None,,Ned,001,2021_Mar_20_1047,inputText,2021.1.2,60.14164862178257,
+in,0,3,3,3,,,,,,,36.46462920900376,None,36.46462920900376,None,38.48005829199974,None,38.48005829199974,None,,Ned,001,2021_Mar_20_1047,inputText,2021.1.2,60.14164862178257,
+Titlecase,0,4,4,4,,,,,,,39.19694558400079,None,39.19694558400079,None,41.196542208999745,None,41.196542208999745,None,,Ned,001,2021_Mar_20_1047,inputText,2021.1.2,60.14164862178257,

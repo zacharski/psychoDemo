@@ -1,0 +1,3 @@
+﻿prompt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instText.started,instText.stopped,key_resp.keys,key_resp.rt,key_resp.started,key_resp.stopped,targetInstr.started,targetInstr.stopped,targetText.started,targetText.stopped,instr.started,instr.stopped,text.started,text.stopped,typedWord,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,11.206120499991812,None,['return'],[1.361866416002158],11.206120499991812,None,,,,,,,,,,Jimmy,001,2021_Mar_19_1832,inputText,2021.1.2,59.60985351157475,
+type,0,0,0,0,,,,,,,12.598930166990613,None,12.598930166990613,None,14.602919707991532,None,14.602919707991532,None,ype,Jimmy,001,2021_Mar_19_1832,inputText,2021.1.2,59.60985351157475,

@@ -1,0 +1,7 @@
+﻿prompt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instText.started,instText.stopped,key_resp.keys,key_resp.rt,key_resp.started,key_resp.stopped,targetInstr.started,targetInstr.stopped,targetText.started,targetText.stopped,instr.started,instr.stopped,text.started,text.stopped,typedWord,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,10.944105207992834,None,['return'],[2.766457082994748],10.944105207992834,None,,,,,,,,,,Jimmy,001,2021_Mar_19_1828,inputText,2021.1.2,59.98885707050076,
+type,0,0,0,0,,,,,,,13.744854707998456,None,13.744854707998456,None,15.74700562498765,None,15.74700562498765,None,type,Jimmy,001,2021_Mar_19_1828,inputText,2021.1.2,59.98885707050076,
+this,0,1,1,1,,,,,,,20.56382162499358,None,20.56382162499358,None,22.564102665986866,None,22.564102665986866,None,this,Jimmy,001,2021_Mar_19_1828,inputText,2021.1.2,59.98885707050076,
+word,0,2,2,2,,,,,,,24.830312416001107,None,24.830312416001107,None,26.830537082991214,None,26.830537082991214,None,word,Jimmy,001,2021_Mar_19_1828,inputText,2021.1.2,59.98885707050076,
+in,0,3,3,3,,,,,,,30.213208499990287,None,30.213208499990287,None,32.21417745799408,None,32.21417745799408,None,in,Jimmy,001,2021_Mar_19_1828,inputText,2021.1.2,59.98885707050076,
+Titlecase,0,4,4,4,,,,,,,33.714722040997,None,33.714722040997,None,35.713720165993436,None,35.713720165993436,None,Titlecase,Jimmy,001,2021_Mar_19_1828,inputText,2021.1.2,59.98885707050076,

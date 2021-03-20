@@ -1,0 +1,5 @@
+﻿prompt,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,instText.started,instText.stopped,key_resp.keys,key_resp.rt,key_resp.started,key_resp.stopped,targetInstr.started,targetInstr.stopped,targetText.started,targetText.stopped,instr.started,instr.stopped,text.started,text.stopped,typedWord,participant,session,date,expName,psychopyVersion,frameRate,
+,,,,,13.429442374996142,None,['space'],[2.1812917920033215],13.429442374996142,None,,,,,,,,,,Lynn,001,2021_Mar_20_1052,inputText,2021.1.2,59.97533490334526,
+Frog,0,0,0,0,,,,,,,15.653453582999646,None,15.653453582999646,None,17.649417332999292,None,17.649417332999292,None,to,Lynn,001,2021_Mar_20_1052,inputText,2021.1.2,59.97533490334526,
+Donkey,0,1,1,1,,,,,,,32.002985540995724,None,32.002985540995724,None,34.01492687499558,None,34.01492687499558,None,the,Lynn,001,2021_Mar_20_1052,inputText,2021.1.2,59.97533490334526,
+,,,,,,,,,,,39.249207082990324,None,39.249207082990324,None,,,,,,,,,,,,
